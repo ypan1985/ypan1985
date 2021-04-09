@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ypan1985
+- 👋 Hi, I’m Yipan
 - 👀 I’m interested in vfx and shader
 - 🌱 I’m currently learning openGL
 - 💞️ I’m looking to collaborate on shader project
